@@ -1,0 +1,28 @@
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\appsettings.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\Learning ASP.NET.exe
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\Learning ASP.NET.deps.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\Learning ASP.NET.runtimeconfig.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\Learning ASP.NET.dll
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\bin\Debug\net7.0\Learning ASP.NET.pdb
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.AssemblyInfo.cs
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.Learning ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.build.Learning ASP.NET.props
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Learning ASP.NET.props
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Learning ASP.NET.props
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\scopedcss\bundle\Learning ASP.NET.styles.css
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.dll
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\refint\Learning ASP.NET.dll
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.pdb
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.genruntimeconfig.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\ref\Learning ASP.NET.dll
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.RazorAssemblyInfo.cache
+C:\Users\Stepan\RiderProjects\Learning ASP.NET\Learning ASP.NET\obj\Debug\net7.0\Learning ASP.NET.RazorAssemblyInfo.cs

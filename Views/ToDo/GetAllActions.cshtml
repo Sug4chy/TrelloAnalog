@@ -1,0 +1,17 @@
+﻿@using System.Globalization
+@using Learning_ASP.NET.Models
+@model IEnumerable<ToDoActionsSheet>
+@{
+    ViewData["Title"] = "AllActions";
+}
+
+<div>
+    @foreach(var actionsSheet in @Model)
+    {
+        <label>@actionsSheet.Date.ToString(CultureInfo.CurrentCulture).Split(' ')[0]</label>
+        foreach (var action in actionsSheet.Actions)
+        {
+            <p>@action</p>
+        }
+    }
+</div>

@@ -1,0 +1,12 @@
+﻿@using Learning_ASP.NET.Models
+@model ToDoActionsSheet
+@{
+    ViewData["Title"] = "Today's Actions";
+}
+
+<div>
+    @foreach (var action in @Model.Actions)
+    {
+        <p>@action</p>
+    }
+</div>
