@@ -39,12 +39,13 @@ public class ToDoController : Controller
     }
 
     [HttpPost]
-    public IActionResult CreateToDoAction(DateTime day, int index, string toDo)
+    public IActionResult CreateToDoAction(DateTime day, string toDo)
     {
         var dayAdapted = day.ToString(CultureInfo.CurrentCulture).Split(' ')[0];
         if (IsSheetExists(day))
         {
             var strings = System.IO.File.ReadAllLines($"{FolderName}//{dayAdapted}.csv").ToList();
+            var index = strings.Count;
             strings.Add($"{index};{toDo}");
             System.IO.File.WriteAllLines($"{FolderName}//{dayAdapted}.csv", strings);
         }
@@ -52,13 +53,15 @@ public class ToDoController : Controller
         {
             var stream = System.IO.File.Create($"{FolderName}//{dayAdapted}.csv");
             stream.Close();
-            var strings = new List<string>();
-            strings.Add("index;todo");
-            strings.Add($"{index};{toDo}");
+            var strings = new List<string>
+            {
+                "index;todo",
+                $"1;{toDo}"
+            };
             System.IO.File.WriteAllLines($"{FolderName}//{dayAdapted}.csv", strings);
         }
 
-        return RedirectToAction("GetAllActions");
+        return Ok();
     }
 
     private bool IsSheetExists(DateTime day)

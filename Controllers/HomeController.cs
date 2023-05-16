@@ -13,8 +13,16 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Index(string userName, string day)
     {
-        var date = DateTime.Parse(day);
-        return userName.Equals("Stepan") 
-            ? RedirectToAction("GetActionsByDay", "ToDo", new { day = date }) : View();
+        try
+        {
+            var date = DateTime.Parse(day);
+            return userName.Equals("Stepan")
+                ? RedirectToAction("GetActionsByDay", "ToDo", new { day = date })
+                : Unauthorized("Имя введено неверно.");
+        }
+        catch
+        {
+            return BadRequest("Один или оба параметра не были введены.");
+        }
     }
 }
